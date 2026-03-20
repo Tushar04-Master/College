@@ -11,8 +11,10 @@
     <form method="post">
       {% csrf_token %}
       {{ form.as_p }}
+      {% comment %}  #this is to make sure that the form is sent to the same page {% endcomment %}
+      {% csrf_token %}
+      <input type="Submit" value="Send E-mail" />
       
-      {% comment %} A submit button {% endcomment %}
 
     </form>
   {% endif %}
