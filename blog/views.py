@@ -45,6 +45,6 @@ def post_share(request , post_id):
             send_mail(subject=subject,message=message,from_email=None,recipient_list=[cd['to']])
             sent=True   
 
-        else:
+    else:
             form=EmailPostForm()
-        return render(request,'blog/post/share.html',{'post':post , 'form':form , 'sent':sent})
+    return render(request,'blog/post/share.html',{'post':post , 'form':form , 'sent':sent})
