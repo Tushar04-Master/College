@@ -15,6 +15,9 @@
         </a>
     </p>
 
+
+
+
     {% with total=comments.count %}
       <h2> {{ total }} Comment{{ total|pluralize }} </h2>
     {% endwith %}
@@ -27,6 +30,28 @@
        </div>
        {% empty%}
          <p> No comments yet </p>
+    {% endfor %}
+
+
+
+    <h2> Similar Posts </h2>
+    {% for post in similar_posts %}
+        <p>
+            <a href="{{post.get_absolute_url}}">
+            {{ post.title }}
+        </a>
+    </p>
+    {% empty %}
+        <p> No similar posts yet </p>
+
+        <p class="tags">
+            Tags: {%for tag in post.tags.all %}
+                <a href="{% url 'blog:post_list_by_tag' tag.slug %}">
+                    {{ tag.name }}
+                </a>
+                {% comment %} {% if not forloop.last %}, {% endif %} {% endcomment %}
+            {% endfor %}
+        </p>
     {% endfor %}
         
     {% include 'blog/post/includes/comment_form.html' %}
