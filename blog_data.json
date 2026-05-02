@@ -1,0 +1,843 @@
+[
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$8RcQSxFIadd36mS07D0cde$GZYIxF/rU8b6GRkwRDDOo5/MwJgjLw9PH7t8GFfCN1w=",
+    "last_login": "2026-03-25T09:55:33.686Z",
+    "is_superuser": true,
+    "username": "tushar04",
+    "first_name": "",
+    "last_name": "",
+    "email": "tus6612@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-02-18T11:24:12.077Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2x52fmknwf22vui5772zvjjsy8ad5956",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlmJP6xNSZ8zWLveDQ4gR4qTCnF3iJQC2jcz76USbmtJW5MlTawuqlen340wP6TugO9Yb7POc12XifSu6IM2Pcwsz-vh_h0UbOVbd3DGGBmFM0URycGTJRp9CNaCB_TOeBdj1wNEAEMCowh7Y8CyE1LvD_mkOCg:1vvAQ3:_wTY1xZQaBe3ZaoFMZEYspaRZrmFmKH5qkOcJ3T2W5g",
+    "expire_date": "2026-03-11T08:38:55.147Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4fhboz0ggkjhhas51bgamrexwpn4nb1u",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlmJP6xNSZ8zWLveDQ4gR4qTCnF3iJQC2jcz76USbmtJW5MlTawuqlen340wP6TugO9Yb7POc12XifSu6IM2Pcwsz-vh_h0UbOVbd3DGGBmFM0URycGTJRp9CNaCB_TOeBdj1wNEAEMCowh7Y8CyE1LvD_mkOCg:1w0YF1:w8Tpgp2rjl2vj8qguD0aTgHADLPjM0dAAos2o-g415s",
+    "expire_date": "2026-03-26T05:05:47.173Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "o72qj0i6aua8r0y421pr8ub5v2aincz8",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlmJP6xNSZ8zWLveDQ4gR4qTCnF3iJQC2jcz76USbmtJW5MlTawuqlen340wP6TugO9Yb7POc12XifSu6IM2Pcwsz-vh_h0UbOVbd3DGGBmFM0URycGTJRp9CNaCB_TOeBdj1wNEAEMCowh7Y8CyE1LvD_mkOCg:1w5KxZ:Ma3oihho_BbFoJcsmXH1zhkyV0CaJ_9nmkZn0AjUgXU",
+    "expire_date": "2026-04-08T09:55:33.689Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "q8gc5dmgf3atpswx4mmav5n2qiqalhac",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlmJP6xNSZ8zWLveDQ4gR4qTCnF3iJQC2jcz76USbmtJW5MlTawuqlen340wP6TugO9Yb7POc12XifSu6IM2Pcwsz-vh_h0UbOVbd3DGGBmFM0URycGTJRp9CNaCB_TOeBdj1wNEAEMCowh7Y8CyE1LvD_mkOCg:1vsu1v:mUyV8OkoqImPqrZRBpzn4L7F74Caz3insJf-A2Ej8DY",
+    "expire_date": "2026-03-05T02:44:39.754Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "soqapndq86peef3z0tif0xmy5ihe77o9",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlmJP6xNSZ8zWLveDQ4gR4qTCnF3iJQC2jcz76USbmtJW5MlTawuqlen340wP6TugO9Yb7POc12XifSu6IM2Pcwsz-vh_h0UbOVbd3DGGBmFM0URycGTJRp9CNaCB_TOeBdj1wNEAEMCowh7Y8CyE1LvD_mkOCg:1w33NG:7IWaqlaOrhbfJJkQkSgc-rpx90gJlmr0WeAXRQ-dK6I",
+    "expire_date": "2026-04-02T02:44:38.704Z"
+  }
+},
+{
+  "model": "sites.site",
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "THE ERA OF AI",
+    "slug": "Just-updating-bro",
+    "author": [
+      "tushar04"
+    ],
+    "body": "DON'T PRESS CRTL+Z",
+    "publish": "2026-02-19T04:00:59Z",
+    "created": "2026-02-19T04:01:30.495Z",
+    "updated": "2026-04-01T09:58:13.950Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Porsche",
+    "slug": "porsche-GT3-RS",
+    "author": [
+      "tushar04"
+    ],
+    "body": "he Porsche 911 GT3 is a high-performance homologation model of the Porsche 911 sports car. It is a range of high-performance models, which began with the 1973 911 Carrera RS. The GT3 has had a successful racing career in the one-make national and regional Porsche Carrera Cup and GT3 Cup Challenge series, as well as the international Porsche Supercup supporting the FIA F1 World Championship. Porsche was founded by Ferdinand Porsche, a visionary automotive engineer, who established the company \"Dr. Ing. h. c. F. Porsche GmbH\" in Stuttgart in 1931\r\n\r\nThe \"GT3\" nameplate was introduced in 1999 as part of the first generation of the Porsche 996 model range (commonly known as 996.1[2]) as a homologation model for the cars entered in the GT class[3], predating the Group GT3 which was introduced in 2005. As with Porsche's previous 911 RS models, the 996 GT3 was focused on racing, and so was devoid of items that added unnecessary weight to the car. Sound deadening was almost completely removed, as were the rear seats, rear loud speakers, sunroof, and air conditioning, although automatic air conditioning and CD/radio became no-cost optional add-ons.\r\n\r\nThe engine of the 996 GT3 sets it apart from 996 Carrera models, as it shared nothing with the standard so-called \"integrated dry sump\" (e.g. wet-sump) flat-six engine used in the water-cooled 996 Carrera engine introduced in MY1999. The 996 GT3 engine is naturally aspirated and based on the \"Mezger\" racing engine used in the 962 and 911 GT1 race cars. That engine was known as the \"Mezger\" engine after its designer, Hans Mezger. The engine uses the original air-cooled 911's versatile dry-sump crankcase with an external oil reservoir. The 996 GT3 has 265 kW; 355 hp (360 PS), compared to the 221 kW; 296 hp (300 PS) of the standard 996. In GT3 configuration, the so-called \"split\" crankcase (meaning the parting line of crankcase is on the crankshaft centreline) uses, instead of a fan and finned cylinders, separate water jackets added onto each side of the crankcase to cool banks of three cylinders with water pumped through a radiator. Thus, the GT3 engine is very similar to the completely water-cooled 962 racing car's engine, which is based on the same crankcase. The 962 differs, however, by using six individual cylinder heads while the \"Mezger\" uses two cylinder heads, each covering a bank of three cylinders. The GT3 engine could thus also be thought of as similar to a 959 engine, but with water-cooled crankcase. Up until model year 2004 996 production, the basic casting used for the \"Mezger\" crankcase of the GT3 was the same as the 996 GT1 LeMans cars, and the same \"964..\" block part-number is visible on the bottom of the crankcase. Beginning with MY2004 however, production was outsourced to Valmet facilities in Spain, France, and Austria, and all subsequent road-legal Mezger engines are part-numbered \"996..\" (even on later 997 cars).\r\n\r\nBecause the GT1 Mezger block uses the same legacy Porsche 356 engine to transmission mounting flange configuration, the 996 GT3 used a 6-speed manual gearbox also of air-cooled 911 heritage. This new G96/50 gearbox has interchangeable gear ratios and is more durable making it more suitable for racing than the standard type 996 Carrera's gearbox.[4]\r\n\r\nTo bring the vehicle's track-prowess to the maximum level, Porsche endowed the GT3 with enlarged brakes, a lowered, re-tuned suspension system, lighter-weight wheels and a new front bumper with matched rear spoiler to help increase downforce, thereby increasing grip.\r\n\r\nPorsche offered a no-cost option for the GT3 called the 'Clubsport' package. This option replaced the standard electrically adjustable leather front seats with manually adjustable racing bucket seats finished in fire-retardant fabric, single mass flywheel, bolt-in half-roll cage, 6-point drivers racing harness (also replacing the standard side airbags), fire extinguisher (mounted in the front passenger footwell) and preparation for a battery master switch. The Clubsport option was never offered to US customers, ostensibly due to the additional DOT crash testing that would have been required to allow US sales.",
+    "publish": "2026-03-11T11:20:13Z",
+    "created": "2026-03-11T11:23:21.354Z",
+    "updated": "2026-04-01T09:58:06.598Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "BMW",
+    "slug": "bmw-m3-gtr",
+    "author": [
+      "tushar04"
+    ],
+    "body": "The 2001 BMW M3 GTR (E46) is a GT class race car developed by BMW based on their M3 E46.\r\n\r\nIt competed during the 2001 racing season under both the BMW Motorsport and Team Schnitzer teams, with the car being entered in the GT class of the American Le Mans Championship and the European Le Mans Series.[1][2][3]\r\n\r\nIt was originally fitted with a 3.2L inline-six engine based on the engine of the standard E46 M3. The car first entered the GT class of the American Le Mans Series in 2000, in which it only took a single victory and was beaten on several occasions by the Porsche 911 GT3-R.\r\n\r\nA newly developed P60B40 V8 engine was quickly placed into the race car before the beginning of the racing 2001 season. It was developed alongside the BMW V10 engine that was used to power Williams Formula 1 cars during the 2001 F1 season. The old engine was ditched as BMW's engineers couldn't squeeze any more horsepower out of it.\r\n\r\nThe new engine gave the M3 GTR a competitive edge over the Porsche 911 GT3-R in the GT class and allowed it to win seven out of the ten events in the class for the 2001 season. Porsche claimed during the 2001 ALMS season that BMW had violated the ALMS entry rules and the spirit of Gran Turismo through protesting the V8 engine in the M3 GTR was not available in any road legal BMW M3.",
+    "publish": "2026-03-19T02:45:02Z",
+    "created": "2026-03-19T02:46:17.467Z",
+    "updated": "2026-04-01T09:57:59.355Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Ferarri",
+    "slug": "ferarri-sf90",
+    "author": [
+      "tushar04"
+    ],
+    "body": "The Ferrari SF90 Stradale (Type F173) is a mid-engine PHEV (plug-in hybrid electric vehicle) sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with 90 standing for the 90th anniversary of the Scuderia Ferrari racing team and also \"Stradale\", an Italian word for \"made for the road\r\n\r\nThe main feature of the design is the twin-part rear wing which is an application of the drag reduction system (DRS) used in Formula One. A fixed element in the wing incorporates the rear light, the mobile parts of the wing (called \"shut off Gurney\" by the manufacturer) integrate into the body by using electric actuators in order to maximise downforce. The SF90 Stradale uses an evolution of Ferrari's vortex generators mounted at the front of the car.\r\n\r\nThe car employs a cab-forward design in order to utilise the new aerodynamic parts of the car more effectively and in order to incorporate radiators for the cooling requirements of the hybrid system of the car. The design is a close collaboration between Ferrari Styling Centre and Ferrari engineers.",
+    "publish": "2026-03-19T02:46:31Z",
+    "created": "2026-03-19T02:48:16.250Z",
+    "updated": "2026-04-01T09:58:17.263Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Lambourgini",
+    "slug": "lambourgini-revuelto",
+    "author": [
+      "tushar04"
+    ],
+    "body": "The Lamborghini Revuelto (Spanish pronunciation: [reˈβwelto]) is a mid-engine plug-in hybrid sports car produced by the Italian automobile manufacturer Lamborghini. It was officially unveiled on 29 March 2023 as a successor to the Aventador.[5] The Revuelto’s namesake is a Spanish fighting bull that fought in the arena of Barcelona in the 1880s.[6]\r\n\r\nAs of July 2023, the Revuelto has gone into full production,[7] with the first units having been delivered in the last quarter of 2023.[8]",
+    "publish": "2026-04-01T09:58:29Z",
+    "created": "2026-04-01T09:59:55.505Z",
+    "updated": "2026-04-01T09:59:55.505Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Markdown Post",
+    "slug": "markdown-post",
+    "author": [
+      "tushar04"
+    ],
+    "body": "This post is written is markdown format .\r\n\r\n**bold text**\r\n\r\n*italic*\r\n\r\nThis is a list\r\n\r\n- One\r\n- Two\r\n- Three\r\n\r\n#Heading 1\r\n##Heading 2\r\n###Heading 3\r\n[Antigravity](https://antigravity.google/)",
+    "publish": "2026-04-02T03:55:57Z",
+    "created": "2026-04-02T03:57:39.003Z",
+    "updated": "2026-04-02T04:01:48.431Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 7,
+    "name": "Elon Musk",
+    "email": "elonmusk@gmail.com",
+    "body": "YOU ARE A GREAT GUY !",
+    "created": "2026-03-25T12:25:18.481Z",
+    "updated": "2026-03-25T12:25:18.481Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "csw",
+    "slug": "csw"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Supercars",
+    "slug": "supercars"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "German",
+    "slug": "german"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "AI",
+    "slug": "ai"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "marker",
+    "slug": "marker"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 5,
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 5,
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 6,
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 4,
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 7,
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": 11
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-02-19T03:42:21.007Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "1",
+    "object_repr": "Agentic Coding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-02-19T03:42:31.823Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "1",
+    "object_repr": "Agentic Coding",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-02-19T03:43:21.565Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "1",
+    "object_repr": "Agentic Coding",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-02-19T04:01:30.496Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "2",
+    "object_repr": "Agentic Coding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-02-25T10:58:11.195Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "4",
+    "object_repr": "Another post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-02-25T11:28:48.576Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "5",
+    "object_repr": "THE ERA OF AI",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-02-25T11:28:52.200Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "3",
+    "object_repr": "THE ERA OF AI",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-03-11T11:23:21.355Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "6",
+    "object_repr": "Porsche",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-03-12T05:06:05.366Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "6",
+    "object_repr": "Porsche",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-03-12T05:06:23.276Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "2",
+    "object_repr": "THE ERA OF AI",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-03-19T02:46:17.469Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "7",
+    "object_repr": "BMW",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-03-19T02:48:16.250Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "8",
+    "object_repr": "Ferarri",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-03-25T09:55:47.690Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "Tony",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-03-25T09:56:25.652Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "9",
+    "object_repr": "LAMBOURGINI",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-03-25T09:56:45.754Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "Tony",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-04-01T09:57:22.032Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "8",
+    "object_repr": "Ferarri",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-04-01T09:57:59.358Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "7",
+    "object_repr": "BMW",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-04-01T09:58:06.601Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "6",
+    "object_repr": "Porsche",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-04-01T09:58:13.956Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "2",
+    "object_repr": "THE ERA OF AI",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-04-01T09:58:17.265Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "8",
+    "object_repr": "Ferarri",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-04-01T09:59:55.511Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "10",
+    "object_repr": "Lambourgini",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-04-02T03:57:39.011Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "11",
+    "object_repr": "Markdown Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-04-02T04:00:25.486Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "11",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-04-02T04:00:46.074Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "11",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-04-02T04:00:55.466Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "11",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-04-02T04:01:48.434Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "blog",
+      "post"
+    ],
+    "object_id": "11",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-04-02T04:59:11.612Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-04-02T04:59:50.712Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "object_id": "1",
+    "object_repr": "MARDCHD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-04-02T05:00:46.933Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "object_id": "1",
+    "object_repr": "local",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-04-02T05:00:59.295Z",
+    "user": [
+      "tushar04"
+    ],
+    "content_type": [
+      "sites",
+      "site"
+    ],
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+}
+]
